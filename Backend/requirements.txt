@@ -1,0 +1,8 @@
+Flask==3.1.0
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+nltk==3.9.1
+dill==0.3.8
+emoji==2.14.1
+xgboost==2.1.1

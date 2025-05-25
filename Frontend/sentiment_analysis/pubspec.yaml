@@ -1,0 +1,34 @@
+name: sentiment_analysis
+description: "App for sentiment analysis of user's text."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  pie_chart: ^5.4.0
+  http: ^1.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: "^0.14.3"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+  
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  min_sdk_android: 21
+  image_path: 'assets/images/app-logo.png'
