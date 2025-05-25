@@ -32,7 +32,7 @@ This project was a team effort to develop a sentiment analysis application with 
 1. Clone the repository:
    ```
    bash
-   git clone https://github.com/yourusername/sentiment-analysis-flutter-backend-frontend.git
+   git clone https://github.com/erikhrina/text-sentiment-analysis.git
    cd Backend
    ```
 
@@ -54,7 +54,7 @@ This project was a team effort to develop a sentiment analysis application with 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/sentiment-analysis-flutter-backend-frontend.git
+   git clone https://github.com/erikhrina/text-sentiment-analysis.git
    cd Frontend/sentiment-analysis
    ```
 
