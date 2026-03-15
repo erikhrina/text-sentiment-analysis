@@ -2,6 +2,8 @@
 
 This project was a team effort to develop a sentiment analysis application with a **Flutter** frontend and a **Flask** backend. The app predicts the sentiment of user-provided text as **negative (0)**, **neutral (1)**, or **positive (2)**. 
 
+![Demo](./Documentation/app-demo.gif)
+
 ---
 
 ## Team Contributions
